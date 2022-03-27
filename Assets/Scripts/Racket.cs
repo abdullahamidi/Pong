@@ -8,7 +8,6 @@ public class Racket : MonoBehaviour
     [SerializeField]
     private float speed = 5f;
     public FixedJoystick joystick;
-    public Text error;
     private Vector3 startPos;
     private Vector3 screenTop;
     private Vector3 screenBottom;
